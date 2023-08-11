@@ -59,7 +59,3 @@ The project follows a common folder structure for a React application:
 Contributions to this project are welcome. If you would like to make any improvements or add new features, feel free to submit a pull request.
 
 Please ensure that your changes align with the project's coding style, conventions, and best practices.
-
-## License
-
-This project is licensed under the MIT License. 📜
